@@ -2,7 +2,7 @@
   "name": "simple-mvc-example",
   "version": "0.0.0",
   "engines": {
-    "node": "^10.16.3",
+    "node": "8.4.0",
     "npm": "5.6.0"
   },
   "description": "A simple Express MVC using only static files",
